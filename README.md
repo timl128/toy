@@ -30,4 +30,4 @@ npm test
 ```
 
 ### Execute
-1. run `npm index.js filename`
+1. run `node index.js filename`
